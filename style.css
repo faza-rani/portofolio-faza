@@ -161,3 +161,13 @@ footer {
     border-radius: 10px;
     margin-top: 10px;
 }
+
+#experience p {
+    text-align: justify;
+    line-height: 1.7;
+}
+
+#about p {
+    text-align: justify;
+    line-height: 1.7;
+}
