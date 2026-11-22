@@ -147,29 +147,11 @@ footer {
 }
 
 .profile-img {
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     border-radius: 50%;
     border: 4px solid #f4d9df;
-}
-
-.project-img {
-    width: 100%;
-    max-width: 300px;
-    height: auto;
-    border-radius: 10px;
-    margin-top: 10px;
-}
-
-#experience p {
-    text-align: justify;
-    line-height: 1.7;
-}
-
-#about p {
-    text-align: justify;
-    line-height: 1.7;
 }
 
 .project-img {
