@@ -179,9 +179,8 @@ footer {
     font-weight: bold;
 }
 
-#home.hero p {
-    text-align: justify;
-    line-height: 1.7;
+#home.hero {
+    text-align: center;
 }
 
 #home.hero > div {
@@ -192,6 +191,8 @@ footer {
 }
 
 #home.hero p {
-    text-align: justify;
+    text-align: justify !important;
+    width: 100%;
+    max-width: 600px;
     line-height: 1.7;
 }
