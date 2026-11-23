@@ -161,13 +161,14 @@ footer {
     margin-top: 10px;
 }
 
-.nama {
-    color: #d66b91;
-    font-size: 45px;
-    font-weight: bold;
-}
 #about p,
 #experience p {
     text-align: justify !important;
     line-height: 1.7;
+}
+
+.nama {
+    color: #d66b91;
+    font-size: 45px;
+    font-weight: bold;
 }
