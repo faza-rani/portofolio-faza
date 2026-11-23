@@ -178,3 +178,18 @@ footer {
     font-size: 45px;
     font-weight: bold;
 }
+
+#home.hero {
+    text-align: center;
+}
+
+#home.hero > div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#home.hero p {
+    text-align: center;
+}
